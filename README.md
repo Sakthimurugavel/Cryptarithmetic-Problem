@@ -109,8 +109,8 @@ else:
 ```
 
 <h2>Sample Input and Output:</h2>
+![out 8 ai](https://github.com/user-attachments/assets/060c7230-8180-45b7-acf7-b7595b0a4dae)
 
-![out](Op1-ai8.png)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
